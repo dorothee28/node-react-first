@@ -1,0 +1,14 @@
+.new-goal {
+    margin: 2rem;
+    text-align: center;
+   
+}
+
+.input-goal {
+    padding: 1em;
+}
+
+.button-goal {
+    padding: 1em;
+    background-color: rgb(0, 174, 255);
+}
